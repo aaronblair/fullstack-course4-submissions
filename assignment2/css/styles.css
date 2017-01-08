@@ -13,9 +13,13 @@ h1 {
 }
 
 p {
-  width: 90%;
+  width: 95%;
   margin-right: auto;
   margin-left: auto;
+}
+
+div {
+  float: left;
 }
 
 .section {
